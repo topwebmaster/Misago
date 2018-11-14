@@ -1,5 +1,5 @@
 ======
-Misago
+Misago,  this fork attemt to create, realtime and smf design look like forum on django
 ======
 
 .. image:: https://travis-ci.org/rafalp/Misago.svg?branch=master
